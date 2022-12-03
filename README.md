@@ -4,7 +4,7 @@ This site is published on https://myquotes-93383.web.app
 
 Here one can globally add their quotes mentioning their name and can view and comment on other's quotes as well.
 
-https://user-images.githubusercontent.com/75577624/205456779-7985d0dc-e247-4047-9589-98125a21e055.mp4
+https://user-images.githubusercontent.com/75577624/205457023-d79a5818-2fd1-42cf-a43d-e18b6800407c.mp4
 
 
 - ### View all quotes
