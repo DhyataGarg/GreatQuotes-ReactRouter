@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/75577624/205457023-d79a5818-2fd1-42cf-
 
 - ### Add a new quote
 
-  ![Screenshot 2022-12-03 164113](https://user-images.githubusercontent.com/75577624/205456750-641cfb72-30b3-466e-a72b-a5837b038fe7.png)
+![Screenshot 2022-12-03 164113](https://user-images.githubusercontent.com/75577624/205456750-641cfb72-30b3-466e-a72b-a5837b038fe7.png)
 
 
 - ### View and add comments to a quote.
