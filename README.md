@@ -2,7 +2,7 @@
 
 This site is published on https://myquotes-93383.web.app
 
-Here one can globally add their quotes mentioning their name, can view and add comments on other's quotes and can sort the quotes as per therir requirements as well.
+Here one can globally add their quotes mentioning their name, can view and add comments on others' quotes, and can sort the quotes as per their requirements as well.
 
 https://user-images.githubusercontent.com/75577624/205457023-d79a5818-2fd1-42cf-a43d-e18b6800407c.mp4
 
